@@ -1,0 +1,15 @@
+body {
+    /* text-align: center; */
+    margin: 0px;
+    /* background-color: aquamarine; */
+    /* font-size: 8px; */
+}
+h1 {
+    /* background-color: aqua; */
+    color: blueviolet;
+}
+.set-mid {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
